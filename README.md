@@ -2,4 +2,4 @@
 
 Welcome To Aero Admin! 
 ## Installation
-ONLY use this model https://create.roblox.com/store/asset/74907672548754/Aero-Admin No others. You can view the Wiki soon on how to change Users in Ranks
+ONLY use this model https://create.roblox.com/store/asset/74907672548754/Aero-Admin No others. 
