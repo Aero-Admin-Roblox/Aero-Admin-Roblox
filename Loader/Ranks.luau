@@ -13,9 +13,9 @@ Ranks.Levels = {
 
 
 Ranks.Users = {
-	[12345678] = Ranks.Levels.Owner,     
-	[87654321] = Ranks.Levels.Admin,     
-	[11223344] = Ranks.Levels.Moderator, 
+	[USER_ID] = Ranks.Levels.Owner,     
+	[USER_ID] = Ranks.Levels.Admin,     
+	[USER_ID] = Ranks.Levels.Moderator, 
 }
 
 return Ranks
